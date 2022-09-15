@@ -1,0 +1,21 @@
+<main>
+<h1 id="title">freeCodeCamp Survey Form</h1>
+<p id="description">Thank you for taking the time to help us improve the platform </p>
+<form id="survey-form"></form>
+<div class="container">
+  <label for="">Name<input id="name" type="text" required/></label></div>
+  <div class="container">
+  <label for="">Name<input id="email" type="text" required/></label></div>
+  <div class="container">
+  <label for="">Name<input id="number" type="number" min="16" max="80" required/></label></div>
+ </form> 
+
+
+
+
+
+<input id="name"></input>
+<input id="email"></input>
+<label id="name-label"></label>
+<label id="number-label"></label>
+</main>
