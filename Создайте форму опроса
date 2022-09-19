@@ -1,13 +1,14 @@
 <main>
 <h1 id="title">freeCodeCamp Survey Form</h1>
 <p id="description">Thank you for taking the time to help us improve the platform </p>
-<form id="survey-form"></form>
+<form id="survey-form">
 <div class="container">
-  <label id="name label" for="">Name<input id="name" type="text" plaseholder="Имя" required/></label></div>
+  <label id="name-label" for="">Name<input id="name" type="text" plaseholder="name" required/></label></div>
   <div class="container">
-  <label id="email label" for="">Name<input id="email" type="text" plaseholder="Почта" required/></label></div>
+  <label id="email-label" for="">Email<input id="email" type="email" plaseholder="email" required/></label></div>
   <div class="container">
-  <label id="number label" for="">Name<input id="number" type="number" plaseholder="Возраст" min="16" max="80" required/></label>
+  <label id="number-label" for="">Nename<input id="number" type="number" plaseholder="number" min="16" max="80" required/></label>
+  
   </div>
   <div>
     <div class="container">
@@ -18,11 +19,11 @@
          <option value="">студент</option>
           <option value="">рабочий</option>
            <option value="">пенсионер</option>
-           </select>
+           </select></form>
            <div class="container">
-             <label for="">Офлайн<input name="" value="офлайн" type="radio"></label>
-             <label for="">Онлайн<input name="" value="онлайн" type="radio"></label>
-             <label for="">Офлайн и Онлайн <input name="" value="офлан и онлайн" type="radio"></label>
+             <label for="">Офлайн<input name="type" value="офлайн" type="radio"></label>
+             <label for="">Онлайн<input name="type" value="онлайн" type="radio"></label>
+             <label for="">Офлайн и Онлайн <input name="type" value="офлан и онлайн" type="radio"></label>
     </div>
     <div class="container">
              <label for=""><input name="" value="" type="checkbox"></label>
