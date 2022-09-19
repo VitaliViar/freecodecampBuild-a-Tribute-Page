@@ -3,20 +3,46 @@
 <p id="description">Thank you for taking the time to help us improve the platform </p>
 <form id="survey-form"></form>
 <div class="container">
-  <label for="">Name<input id="name" type="text"plaseholder="Имя" required/></label></div>
+  <label id="name label" for="">Name<input id="name" type="text" plaseholder="Имя" required/></label></div>
   <div class="container">
-  <label for="">Name<input id="email" type="text"plaseholder="Почта" required/></label></div>
+  <label id="email label" for="">Name<input id="email" type="text" plaseholder="Почта" required/></label></div>
   <div class="container">
-  <label for="">Name<input id="number" type="number"plaseholder="Возраст" min="16" max="80" required/></label>
+  <label id="number label" for="">Name<input id="number" type="number" plaseholder="Возраст" min="16" max="80" required/></label>
   </div>
   <div>
     <div class="container">
+      <p>Ваш социальный статус</p>
       <select name="" id="dropdown">
-        <option value=""></option>
-         <option value=""></option>
-          <option value=""></option>
-           <option value=""></option>
+        <option disabled selected value></option>
+        <option value="">школьник</option>
+         <option value="">студент</option>
+          <option value="">рабочий</option>
+           <option value="">пенсионер</option>
            </select>
+           <div class="container">
+             <label for=""><input name="" value="" type="radio"></label>
+             <label for=""><input name="" value="" type="radio"></label>
+             <label for=""><input name="" value="" type="radio"></label>
     </div>
+    <div class="container">
+             <label for=""><input name="" value="" type="checkbox"></label>
+             <label for=""><input name="" value="" type="checkbox"></label>
+             <label for=""><input name="" value="" type="checkbox"></label>
+    </div>
+    <div class="container">
+      <textarea name="" id="" cols="30" rows="10"></textarea>
+      </div>
+      <div class="container"><button id="submit"></button>
+
+        </div>
+
+    
+    
  </form> 
 
+
+
+
+
+
+</main>
