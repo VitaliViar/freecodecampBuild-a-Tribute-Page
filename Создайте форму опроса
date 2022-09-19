@@ -3,19 +3,20 @@
 <p id="description">Thank you for taking the time to help us improve the platform </p>
 <form id="survey-form"></form>
 <div class="container">
-  <label for="">Name<input id="name" type="text" required/></label></div>
+  <label for="">Name<input id="name" type="text"plaseholder="Имя" required/></label></div>
   <div class="container">
-  <label for="">Name<input id="email" type="text" required/></label></div>
+  <label for="">Name<input id="email" type="text"plaseholder="Почта" required/></label></div>
   <div class="container">
-  <label for="">Name<input id="number" type="number" min="16" max="80" required/></label></div>
+  <label for="">Name<input id="number" type="number"plaseholder="Возраст" min="16" max="80" required/></label>
+  </div>
+  <div>
+    <div class="container">
+      <select name="" id="dropdown">
+        <option value=""></option>
+         <option value=""></option>
+          <option value=""></option>
+           <option value=""></option>
+           </select>
+    </div>
  </form> 
 
-
-
-
-
-<input id="name"></input>
-<input id="email"></input>
-<label id="name-label"></label>
-<label id="number-label"></label>
-</main>
