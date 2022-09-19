@@ -3,11 +3,11 @@
 <p id="description">Thank you for taking the time to help us improve the platform </p>
 <form id="survey-form">
 <div class="container">
-  <label id="name-label" for="">Name<input id="name" type="text" plaseholder="name" required/></label></div>
+  <label id="name-label" for="">Name<input id="name" type="text" placeholder="name" required/></label></div>
   <div class="container">
-  <label id="email-label" for="">Email<input id="email" type="email" plaseholder="email" required/></label></div>
+  <label id="email-label" for="">Email<input id="email" type="email" placeholder="email" required/></label></div>
   <div class="container">
-  <label id="number-label" for="">Nename<input id="number" type="number" plaseholder="number" min="16" max="80" required/></label>
+  <label id="number-label" for="">Nename<input id="number" type="number" placeholder="number" min="16" max="80" required/></label>
   
   </div>
   <div>
@@ -26,9 +26,10 @@
              <label for="">Офлайн и Онлайн <input name="type" value="офлан и онлайн" type="radio"></label>
     </div>
     <div class="container">
-             <label for=""><input name="" value="" type="checkbox"></label>
-             <label for=""><input name="" value="" type="checkbox"></label>
-             <label for=""><input name="" value="" type="checkbox"></label>
+      <p>Направление</p>
+             <label for="">Frontend<input name="dev" value="Frontend" type="checkbox"></label>
+             <label for="">Backend<input name="dev" value="Backend" type="checkbox"></label>
+             <label for="">Fullstack<input name="dev" value="Fullstack" type="checkbox"></label>
     </div>
     <div class="container">
       <textarea name="" id="" cols="30" rows="10"></textarea>
