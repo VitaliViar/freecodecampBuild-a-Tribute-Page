@@ -20,9 +20,9 @@
            <option value="">пенсионер</option>
            </select>
            <div class="container">
-             <label for=""><input name="" value="" type="radio"></label>
-             <label for=""><input name="" value="" type="radio"></label>
-             <label for=""><input name="" value="" type="radio"></label>
+             <label for="">Офлайн<input name="" value="офлайн" type="radio"></label>
+             <label for="">Онлайн<input name="" value="онлайн" type="radio"></label>
+             <label for="">Офлайн и Онлайн <input name="" value="офлан и онлайн" type="radio"></label>
     </div>
     <div class="container">
              <label for=""><input name="" value="" type="checkbox"></label>
