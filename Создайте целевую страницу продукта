@@ -2,7 +2,7 @@
   <header id="header">
     <div class="logo"
     alt='dwinatech'
-    src="https://youtu.be/y8Yv4pnO7qc"
+    src="https://cdn.freecodecamp.org/testable-projects-fcc/images/product-landing-page-logo.png"
     />
     </div>
     <nav id="nav-bar"
@@ -37,6 +37,22 @@
   </p>
   </div>
   </div>
-
+  <div class="card">
+<div class="icon"><i class="fa fa-3x fa-truck"></i></div>
+<div class="content">
+<h2>Fast Shipping</h2>
+<p>We make sure you recieve your trombone as soon as we have finished making it. We also provide free returns if you are not satisfied.
+</p>
+</div>
+</div>
+<div class="card">
+<div class="icon">
+<i class="fa fa-3x fa-battery-full"></i>
+<div class="content">
+  </div>
+  <h2>Quality Assurance</h2>
+  <p>For every purchase you make, we will ensure there are no damages
+  or faults and we will check and test the pitch of your instrument.
+  </p>
 </div>
 </div>
