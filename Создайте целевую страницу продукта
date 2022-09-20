@@ -1,1 +1,16 @@
-
+<div class="main">
+  <header id="header">
+    <div class="logo"
+    alt='dwinatech'
+    src="https://youtu.be/y8Yv4pnO7qc"
+    />
+    </div>
+    <nav id="nav-bar"
+    <ul>
+      <li><a class="nav-link" href="#features">Features</a></li>
+      <li><a class="nav-link" href="#how-it-works">How It Works</a></li>
+      <li><a class="nav-link" href="#pricing">Pricing</a></li>
+      </ul>
+      </nav>
+</header>
+</div>
