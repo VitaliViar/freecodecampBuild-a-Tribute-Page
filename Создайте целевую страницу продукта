@@ -56,3 +56,16 @@
   </p>
 </div>
 </div>
+  </div>
+
+<div id="how-it-works">
+  <iframe
+          id="video"
+          width="560"
+          hight="315"
+          src="https://www.yotube.com/embed/BtExsVNopCs"
+          frameborder="0"
+          allow="accelerometr; autoplay; clipboard-write; encrypted-media; guroscope; pictur-in-picture"
+          allowfullscreen
+          ></iframe>
+</div>
