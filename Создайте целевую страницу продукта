@@ -1,3 +1,63 @@
+<style>
+.body {
+  font-family: "Lato", sans-serif;
+  background-color: #eeeeee;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 20px;
+  position: relative;
+}
+
+#header {
+  position: fixed;
+    top: 0;
+    padding: 15px 20px;
+    display: flex;
+    align-items: center;
+    background-color: #eee;
+  max-width: 100%;
+  flex-direction: column;
+  right: 0;
+  left: 0;
+}
+.logo {
+  display: flex;
+}
+.logo img {
+    width: 100%;
+   border-radius: 50%;
+}
+#nav-bar {
+  display: flex;
+  flex-grow: 1;
+  min-height: 80px;
+  align-items: center;
+}
+#nav-bar ul {
+  text-align: center;
+  padding: 0;
+}
+#nav-bar ul li {
+  dispay: block;
+  margin-bottom: 20px;
+}
+#nav-bar ul li a {
+  color: #000000;
+  font-size: 20px;
+  text-decoration: none;
+}
+.form {
+  max-width: 100;
+  display: flex;
+}
+
+</style>
+
+
 <div class="main">
   <header id="header">
     <div class="logo"
