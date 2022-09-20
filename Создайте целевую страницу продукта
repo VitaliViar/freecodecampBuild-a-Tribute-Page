@@ -63,9 +63,25 @@
           id="video"
           width="560"
           hight="315"
-          src="https://www.yotube.com/embed/BtExsVNopCs"
+          src=https://www.youtube-nocookie.com/embed/y8Yv4pnO7qc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen=""
           frameborder="0"
           allow="accelerometr; autoplay; clipboard-write; encrypted-media; guroscope; pictur-in-picture"
           allowfullscreen
           ></iframe>
 </div>
+   <div id="pricing"> 
+                    <div class="card">
+         
+            <h2>Tenor Trombone</h2>
+            <strong>$600</strong>
+            
+              <p>Lorem ipsum.</p>
+              <p>Lorem ipsum.</p>
+              <p>Lorem ipsum dolor.</p>
+              <p>Lorem ipsum.</p>
+            
+            <button>Select</button>
+          </div>
+                    
+                    </div>
+                    </div>
