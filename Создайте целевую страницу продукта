@@ -82,6 +82,38 @@
             
             <button>Select</button>
           </div>
+                                     <div class="card">
+         
+            <h2>Bass Trombone</h2>
+            <strong>$900</strong>
+            
+              <p>Lorem ipsum.</p>
+              <p>Lorem ipsum.</p>
+              <p>Lorem ipsum dolor.</p>
+              <p>Lorem ipsum.</p>
+            
+            <button>Select</button>
                     
                     </div>
-                    </div>
+                    <div class="card">
+         
+            <h2>Valve Trombone</h2>
+            <strong>$1200</strong>
+            
+              <p>Lorem ipsum.</p>
+              <p>Lorem ipsum.</p>
+              <p>Lorem ipsum dolor.</p>
+              <p>Lorem ipsum.</p>
+            <button>Select</button>                                  
+   </div>
+    </div>
+    <footer>
+     <ul>
+            <li><a href="#">Privacy</a></li>
+            <li><a href="#">Terms</a></li>
+            <li><a href="#">Contact</a></li>
+          </ul>
+    <p>Copyright 2016, Original Trombones</p>
+    </footer>                                                  
+                                      
+   </div>
