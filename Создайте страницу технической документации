@@ -1,13 +1,21 @@
+<style>
+  @media screen {
+    
+  }
+  #navbar {
+    position: fixed;
+  }
+</style>
 <link rel="stylesheet" href="styles.css">
 <main id="main-doc">
   <nav id="navbar">
     <header>lorem</header>
     <ul>
-      <li><a class="nav-link" href=""></a></li>
-      <li><a class="nav-link" href=""></a></li>
-      <li><a class="nav-link" href=""></a></li>
-      <li><a class="nav-link" href=""></a></li>
-      <li><a class="nav-link" href=""></a></li>
+      <li><a class="nav-link" href="#lorem"></a></li>
+      <li><a class="nav-link" href="#lorem"></a></li>
+      <li><a class="nav-link" href="#lorem"></a></li>
+      <li><a class="nav-link" href="#lorem"></a></li>
+      <li><a class="nav-link" href="#lorem"></a></li>
     </ul>
   </nav>
   <section id="lorem" class="main-section">
