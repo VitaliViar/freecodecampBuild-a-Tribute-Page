@@ -1,3 +1,35 @@
+** start of undefined **
+
+<style>
+#navbar {
+  position: fixed;
+  top: 0;
+  display: flex;
+}
+#navbar ul {
+  display: flex;
+}
+#navbar ul li {
+  margin-right: 20px;
+}
+#welcome-section {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  aligh-items: center;
+  
+}
+@media (max-width: 768px) {
+  body {
+    background-color: brown;
+  }
+}
+</style>
+
+
+
+
+
 <nav id="navbar">
   <ul>
     <li><a href="#welcome-section">Welcome section</a></li>
@@ -11,3 +43,13 @@
 <div id="projects">
   <div class="project-tile"><a href="https://codepen.io/vitaliviar/pen/BaxZRrB">Создание целевой страницы продукта</a></div>
 </div>
+
+<footer><a id="profile-link" target="_blank" href="https://www.freecodecamp.org/VitaliViar">Profile Page</a></footer>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
