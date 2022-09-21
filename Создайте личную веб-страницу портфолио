@@ -1,6 +1,15 @@
+<nav id="navbar">
+  <ul>
+    <li><a href="#welcome-section">Welcome section</a></li>
+    <li><a href="#projects">Projects</a></li>
+    
+    
+  </ul>
+</nav>
+
 <div id="welcome-section">
   <h1>Vitali Viarbitski</h1>
 </div>
 <div id="projects">
-  <div class="project-title"></div>
+  <div class="project-title"><a href="https://codepen.io/vitaliviar/pen/BaxZRrB">Создание целевой страницы продукта</a></div>
 </div>
