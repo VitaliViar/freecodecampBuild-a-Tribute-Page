@@ -1,28 +1,70 @@
-<link rel="stylesheet" href="styles.css">
+** start of undefined **
+
+<style>
+  
+  @media screen {
+    
+  }
+  #navbar {
+    position: fixed;
+  }
+</style>
+
+
+
+
 <main id="main-doc">
-  <section class="main-section">
-   <header></header> 
-    <p></p>
+
+  <nav id="navbar">
+
+    <header>JavaScript_and_Java</header>
+
+    <ul>
+      <li><a class="nav-link" href="#JavaScript_and_Java">JavaScript_and_Java</a></li>
+      <li><a class="nav-link" href="#JavaScript_and_Java">JavaScript_and_Java</a></li>
+      <li><a class="nav-link" href="#JavaScript_and_Java">JavaScript_and_Java</a></li>
+      <li><a class="nav-link" href="#JavaScript_and_Java">JavaScript_and_Java</a></li>
+      <li><a class="nav-link" href="#JavaScript_and_Java">JavaScript_and_Java</a></li>
+    </ul>
+  </nav>
+
+  <section id="JavaScript_and_Java" class="main-section">
+   <header>JavaScript_and_Java</header> 
+    <p><li></li></p>
     <p><code></code></p>
   </section>
-  <section class="main-section">
-    <header></header>
-    <p></p>
+
+  <section id="JavaScript_and_Java" class="main-section">
+    <header>JavaScript_and_Java</header>
+    <p><li></li></p>
     <p><code></code></p>
   </section>
-  <section class="main-section">
-    <header></header>
-    <p></p>
+
+  <section id="JavaScript_and_Java" class="main-section">
+    <header>JavaScript_and_Java</header>
+    <p><li></li></p>
     <p><code></code></p>
   </section>
-  <section class="main-section">
-    <header></header>
-    <p></p>
+
+  <section id="JavaScript_and_Java" class="main-section">
+    <header>JavaScript_and_Java</header>
+    <p><li></li></p>
     <p><code></code></p>
   </section>
-  <section class="main-section">
-    <header></header>
-    <p></p>
+
+  <section id="JavaScript_and_Java" class="main-section">
+    <header>JavaScript_and_Java</header>
+    <p><li></li></p>
     <p><code></code></p>
   </section>
+  
 </main>
+
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
