@@ -1,27 +1,37 @@
 <link rel="stylesheet" href="styles.css">
 <main id="main-doc">
-  <section class="main-section">
-   <header></header> 
+  <nav id="navbar">
+    <header>lorem</header>
+    <ul>
+      <li><a class="nav-link" href=""></a></li>
+      <li><a class="nav-link" href=""></a></li>
+      <li><a class="nav-link" href=""></a></li>
+      <li><a class="nav-link" href=""></a></li>
+      <li><a class="nav-link" href=""></a></li>
+    </ul>
+  </nav>
+  <section id="lorem" class="main-section">
+   <header>lorem</header> 
     <p></p>
     <p><code></code></p>
   </section>
-  <section class="main-section">
-    <header></header>
+  <section id="lorem" class="main-section">
+    <header>lorem</header>
     <p></p>
     <p><code></code></p>
   </section>
-  <section class="main-section">
-    <header></header>
+  <section id="lorem" class="main-section">
+    <header>lorem</header>
     <p></p>
     <p><code></code></p>
   </section>
-  <section class="main-section">
-    <header></header>
+  <section id="lorem" class="main-section">
+    <header>lorem</header>
     <p></p>
     <p><code></code></p>
   </section>
-  <section class="main-section">
-    <header></header>
+  <section id="lorem" class="main-section">
+    <header>lorem</header>
     <p></p>
     <p><code></code></p>
   </section>
